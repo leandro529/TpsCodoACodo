@@ -1,0 +1,32 @@
+.navbar-brand{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.carousel-item{
+    
+    filter: brightness(50%);
+    
+}
+.d-flex{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    
+}
+.badge{
+    font-weight: bolder;
+}
+.card-body{
+    filter:brightness(90%)
+}
+.card-title{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.card-text{
+    font-weight: normal;
+}
+.linkIgnite{
+    font-style: normal;
+    text-decoration-style: solid;
+    color: blue;
+}
