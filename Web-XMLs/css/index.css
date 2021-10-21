@@ -1,0 +1,46 @@
+.navbar-Claro{
+    color: #EF3829;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.navbar-brand{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+.nav-link{
+    color: white;
+    font-size: medium;
+    padding: auto;
+}
+.carousel-item{
+    
+    filter: brightness(50%);
+    
+}
+.d-flex{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    
+}
+.badge{
+    font-weight: bolder;
+}
+.card-body{
+    filter:brightness(90%)
+}
+.card-title{
+    font-size: large;
+    font-weight: bolder;
+}
+.card-text{
+    font-weight: normal;
+}
+.linkIgnite{
+    font-style: normal;
+    text-decoration-style: solid;
+    color: blue;
+}
+.bgClaro{
+    color: #EF3829
+}

@@ -1,0 +1,29 @@
+.row{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.col-sm-3{
+    color: indigo;
+}
+.card-title{
+    padding: 1rem;
+    font-size: x-large;
+    font-weight: bold;
+}
+.card-text{
+    font-size: large;
+}
+.card-text-per{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.col{
+    padding-top: 0.5rem;
+}
+.bg-blue{
+    background-color: #285e54;
+}
